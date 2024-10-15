@@ -1,4 +1,4 @@
-# Algoritmo eProgramacao IFTM
+# Algoritmo e Programacao IFTM
 
 - Aulas
 - Exercicios
